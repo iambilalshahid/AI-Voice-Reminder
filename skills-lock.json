@@ -1,0 +1,233 @@
+{
+  "version": 1,
+  "skills": {
+    "antigravity-agent-manager": {
+      "source": "sickn33/antigravity-awesome-skills",
+      "sourceType": "github",
+      "skillPath": "skills/antigravity-agent-manager/SKILL.md",
+      "computedHash": "a34cd59dfc734f8fd7cab83ef8c8cd4e764ff559d4306c7bd484adc7d3c361b9"
+    },
+    "antigravity-design-expert": {
+      "source": "sickn33/antigravity-awesome-skills",
+      "sourceType": "github",
+      "skillPath": "skills/antigravity-design-expert/SKILL.md",
+      "computedHash": "56cca6d5c0e60981e6ace84c442cf7ba85afcc55c587a9e033a28354b6e285eb"
+    },
+    "antigravity-skill-orchestrator": {
+      "source": "sickn33/antigravity-awesome-skills",
+      "sourceType": "github",
+      "skillPath": "skills/antigravity-skill-orchestrator/SKILL.md",
+      "computedHash": "8283eada7bc862174db359e186d66e3f4508414a678679b1f109b8c080ff2094"
+    },
+    "antigravity-workflows": {
+      "source": "sickn33/antigravity-awesome-skills",
+      "sourceType": "github",
+      "skillPath": "skills/antigravity-workflows/SKILL.md",
+      "computedHash": "15dcb4c702495e60a25608cae314d20e22ab12699f6547863b844ea6b74b1bee"
+    },
+    "app-builder": {
+      "source": "sickn33/antigravity-awesome-skills",
+      "sourceType": "github",
+      "skillPath": "skills/app-builder/SKILL.md",
+      "computedHash": "841851b47edcf682577d1ff14af810962293e034a86a76fbd0629b872179ee47"
+    },
+    "app-store-changelog": {
+      "source": "sickn33/antigravity-awesome-skills",
+      "sourceType": "github",
+      "skillPath": "skills/app-store-changelog/SKILL.md",
+      "computedHash": "a64999e511d21580c4eba0b08eeccbe45b55b8c7b07903f9b18ea5b0d7ff6043"
+    },
+    "app-store-optimization": {
+      "source": "sickn33/antigravity-awesome-skills",
+      "sourceType": "github",
+      "skillPath": "skills/app-store-optimization/SKILL.md",
+      "computedHash": "48a47740c448a25185ef7268470976fc3dafec44e5e058c1ee84449cf6da6196"
+    },
+    "appdeploy": {
+      "source": "sickn33/antigravity-awesome-skills",
+      "sourceType": "github",
+      "skillPath": "skills/appdeploy/SKILL.md",
+      "computedHash": "c9930121f35f7cfded7dbcf76e0704e7097779cc78ca15a8e2838402a8fe9273"
+    },
+    "expo-animation": {
+      "source": "sickn33/antigravity-awesome-skills",
+      "sourceType": "github",
+      "skillPath": "skills/expo-animation/SKILL.md",
+      "computedHash": "d0e3dca844b213af25b01ed51155c6186b6243d703587394f3650a77adae4e98"
+    },
+    "expo-api-routes": {
+      "source": "sickn33/antigravity-awesome-skills",
+      "sourceType": "github",
+      "skillPath": "skills/expo-api-routes/SKILL.md",
+      "computedHash": "35dde825ba24684f3c0d6e13ff140fed345e67b34e34559368035feb4389d906"
+    },
+    "expo-brownfield": {
+      "source": "sickn33/antigravity-awesome-skills",
+      "sourceType": "github",
+      "skillPath": "skills/expo-brownfield/SKILL.md",
+      "computedHash": "e3e8fa7fb21f8f9e02adc0e0f364385237b4114a492f4af370b3b7998a835acf"
+    },
+    "expo-cicd-workflows": {
+      "source": "sickn33/antigravity-awesome-skills",
+      "sourceType": "github",
+      "skillPath": "skills/expo-cicd-workflows/SKILL.md",
+      "computedHash": "f56a52c610ef8044f13d9f133d34e2c7071edd6ae9d8c5f350bfb185bd04fe49"
+    },
+    "expo-deployment": {
+      "source": "sickn33/antigravity-awesome-skills",
+      "sourceType": "github",
+      "skillPath": "skills/expo-deployment/SKILL.md",
+      "computedHash": "dd8ab951ff642b24af6237fe6916b8b772c4c83a46532fa17c6ae8cb8dd044f1"
+    },
+    "expo-dev-client": {
+      "source": "sickn33/antigravity-awesome-skills",
+      "sourceType": "github",
+      "skillPath": "skills/expo-dev-client/SKILL.md",
+      "computedHash": "4f7ad48a44af423a44718b6a9bad677ef61599d8236772c6fff9ef1d4be9caf2"
+    },
+    "expo-examples": {
+      "source": "sickn33/antigravity-awesome-skills",
+      "sourceType": "github",
+      "skillPath": "skills/expo-examples/SKILL.md",
+      "computedHash": "62fb8cac92e123c9ba2f7a20929f26e51503a8b272b6b61771edb05aa70532e1"
+    },
+    "expo-module": {
+      "source": "sickn33/antigravity-awesome-skills",
+      "sourceType": "github",
+      "skillPath": "skills/expo-module/SKILL.md",
+      "computedHash": "3d8e43d7446f97bd8894739f359410ab76574ae17d90a877aab8c7d7dbf4bfb5"
+    },
+    "expo-observe": {
+      "source": "sickn33/antigravity-awesome-skills",
+      "sourceType": "github",
+      "skillPath": "skills/expo-observe/SKILL.md",
+      "computedHash": "e8a3f60af410bb42217110abfbb2766449213c9ab1b4bb2aeecc22eded597c5c"
+    },
+    "expo-tailwind-setup": {
+      "source": "sickn33/antigravity-awesome-skills",
+      "sourceType": "github",
+      "skillPath": "skills/expo-tailwind-setup/SKILL.md",
+      "computedHash": "b72a4232b93e07526d36fccd240c05aaae24e45d43e93dca86079a2e1fc7798c"
+    },
+    "expo-ui": {
+      "source": "sickn33/antigravity-awesome-skills",
+      "sourceType": "github",
+      "skillPath": "skills/expo-ui/SKILL.md",
+      "computedHash": "9533171c8c8a57d5dfd26e6197a17256c10e9867147480dc59ce07e39103d648"
+    },
+    "expo-ui-jetpack-compose": {
+      "source": "sickn33/antigravity-awesome-skills",
+      "sourceType": "github",
+      "skillPath": "skills/expo-ui-jetpack-compose/SKILL.md",
+      "computedHash": "af834592a8556cbe744d2be60e2e6afee7199eb33236fc583a58ca2e8f1146c0"
+    },
+    "expo-ui-swift-ui": {
+      "source": "sickn33/antigravity-awesome-skills",
+      "sourceType": "github",
+      "skillPath": "skills/expo-ui-swift-ui/SKILL.md",
+      "computedHash": "ae76e1bd3dbfd1c3b2daac48af0cba223ac0802cfb27154d5091c08478e91bd5"
+    },
+    "github": {
+      "source": "sickn33/antigravity-awesome-skills",
+      "sourceType": "github",
+      "skillPath": "skills/github/SKILL.md",
+      "computedHash": "8bb3210e072304636d4503370ef1e35ef57b27655737fb98986bea8370531baf"
+    },
+    "langchain-architecture": {
+      "source": "sickn33/antigravity-awesome-skills",
+      "sourceType": "github",
+      "skillPath": "skills/langchain-architecture/SKILL.md",
+      "computedHash": "a6576ee506b612e9d8e607d2528f63c3bba481ad5c0cdde7919e5abca1631f23"
+    },
+    "llm-application-dev-langchain-agent": {
+      "source": "sickn33/antigravity-awesome-skills",
+      "sourceType": "github",
+      "skillPath": "skills/llm-application-dev-langchain-agent/SKILL.md",
+      "computedHash": "04cb1a2ac8977f40337b2b0dce919d849780193f914d22d5e519f5bd6f7c4134"
+    },
+    "react-best-practices": {
+      "source": "sickn33/antigravity-awesome-skills",
+      "sourceType": "github",
+      "skillPath": "skills/react-best-practices/SKILL.md",
+      "computedHash": "6a2573cea01069776bcd23a4c3834e47c2ac5f15a6071df85edd2702ca576b57"
+    },
+    "react-component-performance": {
+      "source": "sickn33/antigravity-awesome-skills",
+      "sourceType": "github",
+      "skillPath": "skills/react-component-performance/SKILL.md",
+      "computedHash": "e34279fe3d30ad747eaeb5676ed75ec3a42df727fb033121d11de8feee59cc41"
+    },
+    "react-flow-architect": {
+      "source": "sickn33/antigravity-awesome-skills",
+      "sourceType": "github",
+      "skillPath": "skills/react-flow-architect/SKILL.md",
+      "computedHash": "0620f8d8ffeb4d39f2aecc9a2f3ca0bd33790f65a7fcce383211df1110540b53"
+    },
+    "react-flow-node-ts": {
+      "source": "sickn33/antigravity-awesome-skills",
+      "sourceType": "github",
+      "skillPath": "skills/react-flow-node-ts/SKILL.md",
+      "computedHash": "22fc0af15eccb311eb03e993df1ebbb0997e1afa1f91367e60774a38dc555eac"
+    },
+    "react-modernization": {
+      "source": "sickn33/antigravity-awesome-skills",
+      "sourceType": "github",
+      "skillPath": "skills/react-modernization/SKILL.md",
+      "computedHash": "82d879e1ebe27df98ee3de75985047df9cbe9827c99d8862c782628eef9930a6"
+    },
+    "react-native-architecture": {
+      "source": "sickn33/antigravity-awesome-skills",
+      "sourceType": "github",
+      "skillPath": "skills/react-native-architecture/SKILL.md",
+      "computedHash": "f8709fd6a17ea0d0ea4cb769d3ee01c02b1fe173ccd0d9d4bca9599397c56d23"
+    },
+    "react-native-skills": {
+      "source": "sickn33/antigravity-awesome-skills",
+      "sourceType": "github",
+      "skillPath": "skills/react-native-skills/SKILL.md",
+      "computedHash": "0198943d401ab18725be767d6c3bcba0acfecb4e6926905254d62b9fb73d994c"
+    },
+    "react-patterns": {
+      "source": "sickn33/antigravity-awesome-skills",
+      "sourceType": "github",
+      "skillPath": "skills/react-patterns/SKILL.md",
+      "computedHash": "630d5262fd57d89453b4590c7628f3d22516a8b414e2c888d7db73344f3cf5df"
+    },
+    "react-state-management": {
+      "source": "sickn33/antigravity-awesome-skills",
+      "sourceType": "github",
+      "skillPath": "skills/react-state-management/SKILL.md",
+      "computedHash": "47d2670be67025e4e3720de4354632d71a1396434375d365d4c0a4a4795557f8"
+    },
+    "react-ui-patterns": {
+      "source": "sickn33/antigravity-awesome-skills",
+      "sourceType": "github",
+      "skillPath": "skills/react-ui-patterns/SKILL.md",
+      "computedHash": "c08f4ce72add09b93411811762869a55700ef3e9e75f7323caacd60f096f8763"
+    },
+    "tanstack-query-expert": {
+      "source": "sickn33/antigravity-awesome-skills",
+      "sourceType": "github",
+      "skillPath": "skills/tanstack-query-expert/SKILL.md",
+      "computedHash": "24ca57d13931ad57ce26e8e28abbffdec424a2e1ce159b3f4a20a6aa6c01003a"
+    },
+    "upgrading-expo": {
+      "source": "sickn33/antigravity-awesome-skills",
+      "sourceType": "github",
+      "skillPath": "skills/upgrading-expo/SKILL.md",
+      "computedHash": "c616527d5d94c5da1c05dbec12fc9cc7bd9c86907e89b9824b5d0774524c81d1"
+    },
+    "zod-validation-expert": {
+      "source": "sickn33/antigravity-awesome-skills",
+      "sourceType": "github",
+      "skillPath": "skills/zod-validation-expert/SKILL.md",
+      "computedHash": "d973af5f5bb353b6793ba2516bc11f17d6df6e505e787e774611a05e182db16a"
+    },
+    "zustand-store-ts": {
+      "source": "sickn33/antigravity-awesome-skills",
+      "sourceType": "github",
+      "skillPath": "skills/zustand-store-ts/SKILL.md",
+      "computedHash": "bb054aa44998e737e573568b8c7f9a3ef481e5d40bd590f781c0c4eabe95e267"
+    }
+  }
+}
