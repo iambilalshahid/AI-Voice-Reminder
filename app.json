@@ -38,8 +38,16 @@
           "backgroundColor": "#ffffff"
         }
       ],
-      "expo-status-bar",
-      "expo-sqlite"
+      "expo-sqlite",
+      "@react-native-voice/voice",
+      [
+        "expo-audio",
+        {
+          "microphonePermission": "Allow minimal to access your microphone.",
+          "enableBackgroundPlayback": true,
+          "enableBackgroundRecording": false
+        }
+      ]
     ],
     "experiments": {
       "typedRoutes": true

@@ -14,3 +14,18 @@ export interface ParsedReminder {
   time: string | null
   hasAlarm: boolean
 }
+
+export interface AlarmPayload {
+  title: string
+  time: string           // "HH:MM"
+  day: string
+}
+
+export type RecordingMode = 'click' | 'hold'
+export type WorkflowStep = 'idle' | 'recording' | 'review_audio' | 'confirm_reminder'
+
+export interface RecordingAudioData {
+  uri: string | null
+  durationMillis: number
+  transcript: string
+}

@@ -11,6 +11,15 @@
   --radius-xl: calc(var(--radius) + 4px);
 
   --spacing-hairline: hairlineWidth();
+  --color-convora-dark: #081410;
+  --color-convora-mid: #0f241d;
+  --color-convora-light: #1c382f;
+  --color-convora-accent: #34d399;
+  --color-convora-bg: #f8faf9;
+  --color-convora-surface: #ffffff;
+  --color-convora-sage: #2a5849;
+  --color-convora-sage-light: #e6f0ec;
+  --color-convora-sage-subtle: #d3e4dc;
 }
 
 @layer theme {
